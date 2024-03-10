@@ -1,6 +1,6 @@
 <h1><a href="https://zingy-liger-d360a2.netlify.app/login" target="_blank">Live Demo</a></h1>
 
-<b>DEMO E-mail:test1@gmail.com Password:qwerty</b>
+<h3>DEMO E-mail:test1@gmail.com Password:qwerty</h3>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
